@@ -1,5 +1,5 @@
 {
-    "name": "GameFramework",
+    "name": "GameFramework.Runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
